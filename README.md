@@ -45,3 +45,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 9  | 2026-06-19 |SQL injection     |SQL injection attack, listing the database contents on Oracle  |PRACTITIONER  | N/A |
 | 10 | 2026-06-23 |Authentication     |Username enumeration via different responses  |Apprentice  | N/A |
 | 11 | 2026-06-23 |Authentication     |Username enumeration via subtly different responses  |PRACTITIONER  | N/A |
+| 12 | 2026-06-24 |Authentication     |Username enumeration via response timing  |PRACTITIONER  | N/A |
+| 13 | 2026-06-24 |Authentication     |Broken brute-force protection, IP block  |PRACTITIONER  | N/A |
