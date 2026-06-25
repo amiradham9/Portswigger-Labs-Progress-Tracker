@@ -47,3 +47,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 11 | 2026-06-23 |Authentication     |Username enumeration via subtly different responses  |PRACTITIONER  | N/A |
 | 12 | 2026-06-24 |Authentication     |Username enumeration via response timing  |PRACTITIONER  | N/A |
 | 13 | 2026-06-24 |Authentication     |Broken brute-force protection, IP block  |PRACTITIONER  | N/A |
+| 14 | 2026-06-25 |Authentication     |Username enumeration via account lock  |PRACTITIONER  | N/A |
+| 15 | 2026-06-25 |Authentication     |Broken brute-force protection, multiple credentials per request  |Expert  | N/A |
+| 16 | 2026-06-25 |SQL injection     |Blind SQL injection with conditional responses  |PRACTITIONER  | N/A |
