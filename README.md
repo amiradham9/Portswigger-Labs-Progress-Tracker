@@ -50,3 +50,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 14 | 2026-06-25 |Authentication     |Username enumeration via account lock  |PRACTITIONER  | N/A |
 | 15 | 2026-06-25 |Authentication     |Broken brute-force protection, multiple credentials per request  |Expert  | N/A |
 | 16 | 2026-06-25 |SQL injection     |Blind SQL injection with conditional responses  |PRACTITIONER  | N/A |
+| 17 | 2026-06-26 |Authentication     |2FA simple bypass  |Apprentice  | N/A |
+| 18 | 2026-06-27 |Authentication     |2FA broken logic  |PRACTITIONER  | N/A |
+| 19 | 2026-06-27 |Authentication     |Brute-forcing a stay-logged-in cookie  | N/A |
+| 20 | 2026-06-27 |Authentication     |Offline password cracking  |PRACTITIONER  | N/A |
+| 21 | 2026-06-27 |Authentication     |Password reset broken logic  |Apprentice  | N/A |
+| 22 | 2026-06-27 |Authentication     |Password reset poisoning via middleware  |PRACTITIONER  | N/A |
