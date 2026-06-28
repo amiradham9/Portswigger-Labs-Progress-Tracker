@@ -56,3 +56,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 20 | 2026-06-27 |Authentication     |Offline password cracking  |PRACTITIONER  | N/A |
 | 21 | 2026-06-27 |Authentication     |Password reset broken logic  |Apprentice  | N/A |
 | 22 | 2026-06-27 |Authentication     |Password reset poisoning via middleware  |PRACTITIONER  | N/A |
+| 23 | 2026-06-28 |Authentication     |Password brute-force via password change  |PRACTITIONER  | N/A |
