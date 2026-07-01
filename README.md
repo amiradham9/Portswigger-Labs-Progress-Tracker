@@ -52,8 +52,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 16 | 2026-06-25 |SQL injection     |Blind SQL injection with conditional responses  |PRACTITIONER  | N/A |
 | 17 | 2026-06-26 |Authentication     |2FA simple bypass  |Apprentice  | N/A |
 | 18 | 2026-06-27 |Authentication     |2FA broken logic  |PRACTITIONER  | N/A |
-| 19 | 2026-06-27 |Authentication     |Brute-forcing a stay-logged-in cookie  | N/A |
+| 19 | 2026-06-27 |Authentication     |Brute-forcing a stay-logged-in cookie  |PRACTITIONER  | N/A |
 | 20 | 2026-06-27 |Authentication     |Offline password cracking  |PRACTITIONER  | N/A |
 | 21 | 2026-06-27 |Authentication     |Password reset broken logic  |Apprentice  | N/A |
 | 22 | 2026-06-27 |Authentication     |Password reset poisoning via middleware  |PRACTITIONER  | N/A |
 | 23 | 2026-06-28 |Authentication     |Password brute-force via password change  |PRACTITIONER  | N/A |
+| 24 | 2026-07-01 |Path traversal     |File path traversal, simple case  |Apprentice  | N/A |
+| 25 | 2026-07-01 |Path traversal     |File path traversal, traversal sequences blocked with absolute path bypass  |PRACTITIONER  | N/A |
+| 26 | 2026-07-01 |Path traversal     |File path traversal, traversal sequences stripped non-recursively  |PRACTITIONER  | N/A |
