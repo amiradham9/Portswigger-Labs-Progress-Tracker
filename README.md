@@ -60,3 +60,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 24 | 2026-07-01 |Path traversal     |File path traversal, simple case  |Apprentice  | N/A |
 | 25 | 2026-07-01 |Path traversal     |File path traversal, traversal sequences blocked with absolute path bypass  |PRACTITIONER  | N/A |
 | 26 | 2026-07-01 |Path traversal     |File path traversal, traversal sequences stripped non-recursively  |PRACTITIONER  | N/A |
+| 27 | 2026-07-03 |Path traversal     |File path traversal, traversal sequences stripped with superfluous URL-decode  |PRACTITIONER  | N/A |
+| 28 | 2026-07-03 |Path traversal     |File path traversal, validation of start of path  |PRACTITIONER  | N/A |
+| 29 | 2026-07-03 |Path traversal     |File path traversal, validation of file extension with null byte bypass  |PRACTITIONER  | N/A |
