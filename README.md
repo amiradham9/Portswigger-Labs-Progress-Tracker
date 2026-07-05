@@ -65,4 +65,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 29 | 2026-07-03 |Path traversal     |File path traversal, validation of file extension with null byte bypass  |PRACTITIONER  | N/A |
 | 30 | 2026-07-04 |Command Injection     |OS command injection, simple case  |Apprentice  | N/A |
 | 31 | 2026-07-04 |Command Injection     |Blind OS command injection with time delays  |PRACTITIONER  | N/A |
-| 32 | 2026-07-04 |Command Injection     |Blind OS command injection with output redirection  |PRACTITIONER  | N/A |
+| 33 | 2026-07-05 |Command Injection     |Blind OS command injection with out-of-band interaction  |PRACTITIONER  | N/A |
+| 34 | 2026-07-05 |Command Injection     |Blind OS command injection with out-of-band data exfiltration  |PRACTITIONER  | N/A |
