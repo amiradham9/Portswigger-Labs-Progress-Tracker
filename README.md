@@ -67,3 +67,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 31 | 2026-07-04 |Command Injection     |Blind OS command injection with time delays  |PRACTITIONER  | N/A |
 | 33 | 2026-07-05 |Command Injection     |Blind OS command injection with out-of-band interaction  |PRACTITIONER  | N/A |
 | 34 | 2026-07-05 |Command Injection     |Blind OS command injection with out-of-band data exfiltration  |PRACTITIONER  | N/A |
+| 35 | 2026-07-10 |Business logic     |Excessive trust in client-side controls  |Apprentice  | N/A |
+| 36 | 2026-07-10 |Business logic     |High-level logic vulnerability  |Apprentice  | N/A |
+| 37 | 2026-07-10 |Business logic     |Low-level logic flaw  |PRACTITIONER  | N/A |
