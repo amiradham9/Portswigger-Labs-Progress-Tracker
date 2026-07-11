@@ -70,3 +70,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 35 | 2026-07-10 |Business logic     |Excessive trust in client-side controls  |Apprentice  | N/A |
 | 36 | 2026-07-10 |Business logic     |High-level logic vulnerability  |Apprentice  | N/A |
 | 37 | 2026-07-10 |Business logic     |Low-level logic flaw  |PRACTITIONER  | N/A |
+| 38 | 2026-07-11|Access Control     |Unprotected admin functionality  |Apprentice  | N/A |
+| 39 | 2026-07-11|Access Control     |Unprotected admin functionality with unpredictable URL  |Apprentice  | N/A |
+| 40 | 2026-07-11|Access Control     |User role controlled by request parameter  |Apprentice  | N/A |
+| 41 | 2026-07-11|Access Control     |User role can be modified in user profile  |Apprentice  | N/A |
