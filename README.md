@@ -74,3 +74,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 39 | 2026-07-11|Access Control     |Unprotected admin functionality with unpredictable URL  |Apprentice  | N/A |
 | 40 | 2026-07-11|Access Control     |User role controlled by request parameter  |Apprentice  | N/A |
 | 41 | 2026-07-11|Access Control     |User role can be modified in user profile  |Apprentice  | N/A |
+| 42 | 2026-07-12|Access Control     |URL-based access control can be circumvented  |PRACTITIONER  | N/A |
+| 43 | 2026-07-12|Access Control     |Method-based access control can be circumvented  |PRACTITIONER  | N/A |
+| 44 | 2026-07-12|Access Control     |User ID controlled by request parameter  |Apprentice  | N/A |
+| 45 | 2026-07-12|Access Control     |User ID controlled by request parameter, with unpredictable user IDs  |Apprentice  | N/A |
+| 46 | 2026-07-12|Access Control     | User ID controlled by request parameter with data leakage in redirect   |Apprentice  | N/A |
