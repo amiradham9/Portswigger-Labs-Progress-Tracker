@@ -79,3 +79,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 44 | 2026-07-12|Access Control     |User ID controlled by request parameter  |Apprentice  | N/A |
 | 45 | 2026-07-12|Access Control     |User ID controlled by request parameter, with unpredictable user IDs  |Apprentice  | N/A |
 | 46 | 2026-07-12|Access Control     | User ID controlled by request parameter with data leakage in redirect   |Apprentice  | N/A |
+| 47 | 2026-07-17|File upload     | Remote code execution via web shell upload   |Apprentice  | N/A |
+| 48 | 2026-07-17|File upload     | Web shell upload via Content-Type restriction bypass   |Apprentice  | N/A |
+| 49 | 2026-07-17|File upload     | Web shell upload via path traversal   |PRACTITIONER  | N/A |
