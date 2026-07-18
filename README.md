@@ -82,3 +82,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 47 | 2026-07-17|File upload     | Remote code execution via web shell upload   |Apprentice  | N/A |
 | 48 | 2026-07-17|File upload     | Web shell upload via Content-Type restriction bypass   |Apprentice  | N/A |
 | 49 | 2026-07-17|File upload     | Web shell upload via path traversal   |PRACTITIONER  | N/A |
+| 50 | 2026-07-18|File upload     | Web shell upload via extension blacklist bypass   |PRACTITIONER  | N/A |
+| 51 | 2026-07-18|Access Control     | User ID controlled by request parameter with password disclosure   |Apprentice  | N/A |
+| 52 | 2026-07-18|Access Control     | Insecure direct object references   |Apprentice  | N/A |
+| 53 | 2026-07-18|Access Control     | Multi-step process with no access control on one step    |PRACTITIONER  | N/A |
+| 54 | 2026-07-18|Access Control     | Referer-based access control    |PRACTITIONER  | N/A |
