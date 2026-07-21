@@ -87,3 +87,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 52 | 2026-07-18|Access Control     | Insecure direct object references   |Apprentice  | N/A |
 | 53 | 2026-07-18|Access Control     | Multi-step process with no access control on one step    |PRACTITIONER  | N/A |
 | 54 | 2026-07-18|Access Control     | Referer-based access control    |PRACTITIONER  | N/A |
+| 55 | 2026-07-21|Race conditions    | Limit overrun race conditions    |Apprentice  | N/A |
+| 56 | 2026-07-21|Race conditions    | Bypassing rate limits via race conditions    |PRACTITIONER  | N/A |
