@@ -89,3 +89,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 54 | 2026-07-18|Access Control     | Referer-based access control    |PRACTITIONER  | N/A |
 | 55 | 2026-07-21|Race conditions    | Limit overrun race conditions    |Apprentice  | N/A |
 | 56 | 2026-07-21|Race conditions    | Bypassing rate limits via race conditions    |PRACTITIONER  | N/A |
+| 57 | 2026-07-23|Race conditions    | Multi-endpoint race conditions    |PRACTITIONER  | N/A |
+| 58 | 2026-07-23|Race conditions    | Single-endpoint race conditions    |PRACTITIONER  | N/A |
