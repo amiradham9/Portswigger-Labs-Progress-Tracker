@@ -91,3 +91,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 56 | 2026-07-21|Race conditions    | Bypassing rate limits via race conditions    |PRACTITIONER  | N/A |
 | 57 | 2026-07-23|Race conditions    | Multi-endpoint race conditions    |PRACTITIONER  | N/A |
 | 58 | 2026-07-23|Race conditions    | Single-endpoint race conditions    |PRACTITIONER  | N/A |
+| 59 | 2026-07-25|XXE Injection    | Exploiting XXE using external entities to retrieve files    |Apprentice  | N/A |
+| 60 | 2026-07-25|XXE Injection    | Exploiting XXE to perform SSRF attacks    |Apprentice  | N/A |
+| 61 | 2026-07-25|XXE Injection    | Exploiting XInclude to retrieve files    |PRACTITIONER  | N/A |
+| 62 | 2026-07-25|XXE Injection    | Exploiting XXE via image file upload    |PRACTITIONER  | N/A |
