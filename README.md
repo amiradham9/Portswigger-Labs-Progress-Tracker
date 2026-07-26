@@ -95,3 +95,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 60 | 2026-07-25|XXE Injection    | Exploiting XXE to perform SSRF attacks    |Apprentice  | N/A |
 | 61 | 2026-07-25|XXE Injection    | Exploiting XInclude to retrieve files    |PRACTITIONER  | N/A |
 | 62 | 2026-07-25|XXE Injection    | Exploiting XXE via image file upload    |PRACTITIONER  | N/A |
+| 63 | 2026-07-26|XXE Injection    | Blind XXE with out-of-band interaction    |PRACTITIONER  | N/A |
+| 64 | 2026-07-26|XXE Injection    | Blind XXE with out-of-band interaction via XML parameter entities    |PRACTITIONER  | N/A |
