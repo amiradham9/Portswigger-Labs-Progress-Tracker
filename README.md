@@ -99,3 +99,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 64 | 2026-07-26|XXE Injection    | Blind XXE with out-of-band interaction via XML parameter entities    |PRACTITIONER  | N/A |
 | 65 | 2026-07-30|Server-side request forgery    | Basic SSRF against the local server    |APPRENTICE  | N/A |
 | 66 | 2026-07-30|Server-side request forgery    | Basic SSRF against another back-end system    |APPRENTICE  | N/A |
+| 67 | 2026-08-02|Server-side request forgery    | SSRF with blacklist-based input filter    |PRACTITIONER  | N/A |
+| 68 | 2026-08-02|Server-side request forgery    | Basic SSRF against another back-end system    |PRACTITIONER  | N/A |
+  69 | 2026-08-02|Cross-site scripting    | Stored XSS into HTML context with nothing encoded    |APPRENTICE  | N/A  |
+  70 | 2026-08-02|Cross-site scripting    | DOM XSS in document.write sink using source location.search    |APPRENTICE  | N/A  |
