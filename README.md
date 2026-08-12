@@ -106,3 +106,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 71 | 2026-08-10|API testing    | Exploiting an API endpoint using documentation    |APPRENTICE  | N/A |
 | 72 | 2026-08-10|API testing    | Finding and exploiting an unused API endpoint    |PRACTITIONER  | N/A |
 | 73 | 2026-08-10|API testing    | Exploiting a mass assignment vulnerability    |PRACTITIONER  | N/A |
+| 74 | 2026-08-12|Cross-site scripting    | DDOM XSS in innerHTML sink using source location.search    |APPRENTICE  | N/A  |
+| 75 | 2026-08-12|Cross-site scripting    | Reflected XSS into HTML context with nothing encoded    |APPRENTICE  | N/A  |
