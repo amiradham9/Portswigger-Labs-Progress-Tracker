@@ -108,3 +108,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 73 | 2026-08-10|API testing    | Exploiting a mass assignment vulnerability    |PRACTITIONER  | N/A |
 | 74 | 2026-08-12|Cross-site scripting    | DDOM XSS in innerHTML sink using source location.search    |APPRENTICE  | N/A  |
 | 75 | 2026-08-12|Cross-site scripting    | Reflected XSS into HTML context with nothing encoded    |APPRENTICE  | N/A  |
+| 76 | 2026-08-15|Cross-site scripting    | Exploiting cross-site scripting to steal cookies    |PRACTITIONER  | N/A  |
+| 77 | 2026-08-15|Cross-site scripting    | Exploiting cross-site scripting to capture passwords    |PRACTITIONER  | N/A  |
+| 78 | 2026-08-15|Cross-site scripting    | Exploiting XSS to bypass CSRF defenses    |PRACTITIONER  | N/A  |
