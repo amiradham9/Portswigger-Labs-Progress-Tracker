@@ -111,3 +111,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 76 | 2026-08-15|Cross-site scripting    | Exploiting cross-site scripting to steal cookies    |PRACTITIONER  | N/A  |
 | 77 | 2026-08-15|Cross-site scripting    | Exploiting cross-site scripting to capture passwords    |PRACTITIONER  | N/A  |
 | 78 | 2026-08-15|Cross-site scripting    | Exploiting XSS to bypass CSRF defenses    |PRACTITIONER  | N/A  |
+| 79 | 2026-08-16|Cross-site scripting    | Reflected XSS into HTML context with most tags and attributes blocked    |PRACTITIONER  | N/A  |
+| 80 | 2026-08-16|Cross-site scripting    | Reflected XSS into HTML context with all tags blocked except custom ones    |PRACTITIONER  | N/A  |
+| 81 | 2026-08-16|Cross-site scripting    | Reflected XSS with some SVG markup allowed    |PRACTITIONER  | N/A  |
