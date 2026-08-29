@@ -116,3 +116,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 81 | 2026-08-16|Cross-site scripting    | Reflected XSS with some SVG markup allowed    |PRACTITIONER  | N/A  |
 | 82 | 2026-08-28|Cross-site request forgery    | CSRF vulnerability with no defenses    |APPRENTICE  | N/A  |
 | 83 | 2026-08-28|Cross-site request forgery    | CSRF where token validation depends on request method    |PRACTITIONER  | N/A  |
+| 84 | 2026-08-29|Cross-site request forgery    | CSRF where token validation depends on token being present    |PRACTITIONER  | N/A  |
+| 85 | 2026-08-29|Cross-site request forgery    | CSRF where token is not tied to user session    |PRACTITIONER  | N/A  |
