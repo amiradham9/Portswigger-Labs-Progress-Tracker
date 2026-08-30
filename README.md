@@ -118,3 +118,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 83 | 2026-08-28|Cross-site request forgery    | CSRF where token validation depends on request method    |PRACTITIONER  | N/A  |
 | 84 | 2026-08-29|Cross-site request forgery    | CSRF where token validation depends on token being present    |PRACTITIONER  | N/A  |
 | 85 | 2026-08-29|Cross-site request forgery    | CSRF where token is not tied to user session    |PRACTITIONER  | N/A  |
+| 86 | 2026-08-30|Cross-site request forgery    | SameSite Lax bypass via method override    |PRACTITIONER  | N/A  |
+| 87 | 2026-08-30|Cross-site request forgery    | CSRF where Referer validation depends on header being present    |PRACTITIONER  | N/A  |
+| 88 | 2026-08-30|Cross-site request forgery    | CSRF with broken Referer validation    |PRACTITIONER  | N/A  |
