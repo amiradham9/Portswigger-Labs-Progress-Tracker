@@ -121,3 +121,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 86 | 2026-08-30|Cross-site request forgery    | SameSite Lax bypass via method override    |PRACTITIONER  | N/A  |
 | 87 | 2026-08-30|Cross-site request forgery    | CSRF where Referer validation depends on header being present    |PRACTITIONER  | N/A  |
 | 88 | 2026-08-30|Cross-site request forgery    | CSRF with broken Referer validation    |PRACTITIONER  | N/A  |
+| 89 | 2026-09-05|Server-side template injection    | Basic server-side template injection    |PRACTITIONER  | N/A  |
+| 90 | 2026-09-05|Server-side template injection    | Basic server-side template injection (code context)    |PRACTITIONER  | N/A  |
+| 91 | 2026-09-05|Server-side template injection    | Server-side template injection using documentation    |PRACTITIONER  | N/A  |
