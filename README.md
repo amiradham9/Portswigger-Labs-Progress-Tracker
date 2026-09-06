@@ -124,3 +124,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 89 | 2026-09-05|Server-side template injection    | Basic server-side template injection    |PRACTITIONER  | N/A  |
 | 90 | 2026-09-05|Server-side template injection    | Basic server-side template injection (code context)    |PRACTITIONER  | N/A  |
 | 91 | 2026-09-05|Server-side template injection    | Server-side template injection using documentation    |PRACTITIONER  | N/A  |
+| 92 | 2026-09-06|Server-side template injection    | Server-side template injection in an unknown language with a documented exploit    |PRACTITIONER  | N/A  |
+| 93 | 2026-09-06|Server-side template injection    | Server-side template injection with information disclosure via user-supplied objects    |PRACTITIONER  | N/A  |
+| 94 | 2026-09-06 |Business logic     |Inconsistent security controls  |Apprentice  | N/A |
+| 95 | 2026-09-06 |Business logic     |Flawed enforcement of business rules  |Apprentice  | N/A |
+| 96 | 2026-09-06|Cross-site scripting    | DOM XSS in jQuery anchor href attribute sink using location.search source    |APPRENTICE  | N/A  |
+| 97 | 2026-09-06|Cross-site scripting    | DOM XSS in jQuery selector sink using a hashchange event    |APPRENTICE  | N/A  |
+| 98 | 2026-09-06|Cross-site scripting    | DReflected XSS into attribute with angle brackets HTML-encoded    |APPRENTICE  | N/A  |
+| 99 | 2026-09-06|Cross-site scripting    | Reflected XSS into a JavaScript string with angle brackets HTML encoded    |APPRENTICE  | N/A  |
